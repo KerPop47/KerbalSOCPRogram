@@ -29,4 +29,3 @@ This project aims to add a SOC-like experience to KSP. To do so involves 2-3 dom
         iii. photon pressure effects
         iv. drag effects
     c. provides extra information from game if needed
-
