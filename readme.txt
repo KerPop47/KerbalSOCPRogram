@@ -17,12 +17,12 @@ This project aims to add a SOC-like experience to KSP. To do so involves 2-3 dom
         iv. kOs terminal
     c. posts commands to the Server
     d. auto mode?
-        i. generate stationkeeping maneuvers, etc.
+        i. generate station-keeping maneuvers, etc.
     e. direct command mode
         i. ie for piloting + driving
-3. Gamemod:
+3. In-game mod:
     a. modifies the operations of the world:
-        i. change location of groundstations
+        i. change location of ground stations
     b. modifies physics:
         i. non-spherical effects (j2, j4, etc)
         ii. 3rd-body effects
