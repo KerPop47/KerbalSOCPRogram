@@ -4,7 +4,7 @@ This project aims to add a SOC-like experience to KSP. To do so involves 2-3 dom
 1. Server:
     a. runs KSP and sends relevant information to a webserver to be rendered by the Ops UI
     b. takes commands posted to it from the Operators and converts it into commands for KSP
-2. Ops UI:
+2. Ops UI: in-browser, provided by server
     a. renders the information provided by the server for the Operators
         i. orbital propagation
         ii. contact times
